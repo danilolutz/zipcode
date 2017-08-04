@@ -1,9 +1,9 @@
 {
-  "name": "canducci/zipcode",
+  "name": "guilhermefilippo/zipcode",
   "type": "library",
   "description": "ZipCode From Brazil",
   "keywords": ["cep","zip","zipcode","cep from brazil","laravel5"],
-  "homepage": "https://github.com/netdragoon/zipcode",
+  "homepage": "https://github.com/guilhermefilippo/zipcode",
   "license": "MIT",
   "authors": [
     {
