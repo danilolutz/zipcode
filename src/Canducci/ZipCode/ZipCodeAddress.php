@@ -62,7 +62,7 @@ class ZipCodeAddress implements ZipCodeAddressContract {
             if ($response->getStatusCode() === 200)
             {
 
-                return new ZipCodeAddressInfo(json_encode($response->json(), JSON_PRETTY_PRINT));
+                return new ZipCodeAddressInfo(json_encode(json_decode($response->getBody()), JSON_PRETTY_PRINT));
 
             }
 
