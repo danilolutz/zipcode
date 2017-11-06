@@ -1,5 +1,5 @@
 {
-  "name": "guilhermefilippo/zipcode",
+  "name": "danilolutz/zipcode",
   "type": "library",
   "description": "ZipCode From Brazil",
   "keywords": ["cep","zip","zipcode","cep from brazil","laravel5"],
